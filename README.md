@@ -1,6 +1,6 @@
-see [google analytics](https://developers.google.com/analytics) here.
-see [google tag manager](https://tagmanager.google.com/#/home) here.
-popular [Youtube channel](https://www.youtube.com/@GoogleAnalytics) for google analytics.
+- see [google analytics](https://developers.google.com/analytics) here.
+- see [google tag manager](https://tagmanager.google.com/#/home) here.
+- popular [Youtube channel](https://www.youtube.com/@GoogleAnalytics) for google analytics.
 
 ### How to generate API secret
 
